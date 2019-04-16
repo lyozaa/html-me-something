@@ -1,0 +1,33 @@
+body {
+    background-color: #ffd9cc;
+  }
+
+    iframe {                               /* creates the inline frame to keep everything inside */ 
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+     }
+     
+  .header {
+    color: #360019;
+    text-align: center;
+    font-family: Georgia;
+    font-size: 28px;
+    margin: 25px;
+  }
+
+  p {
+    font-family: Georgia;
+    font-size: 12px;
+  }
+
+
+ img {                                  /* centers the images and scales them down to 50% their original size*/
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 50%;
+     height: 50%;
+
+ }
+
