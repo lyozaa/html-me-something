@@ -13,14 +13,28 @@ body {
     text-align: center;
     font-family: Georgia;
     font-size: 28px;
-    margin: 25px;
+    margin: 15px;
+  }
+
+  #titlebar {
+    color: #f76a3b;
+    text-align: center;
+    font-family: Georgia;
+    font-size: 35px;
   }
 
   p {
     font-family: Georgia;
-    font-size: 12px;
+    font-size: 16px;
   }
 
+  .figcaption{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: #580c30;
+    font-size: 12px;
+  }
 
  img {                                  /* centers the images and scales them down to 50% their original size*/
      display: block;
